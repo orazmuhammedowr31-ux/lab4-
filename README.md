@@ -12,7 +12,7 @@
 brew install sqlite3 gcc            # macOS
 
 # Сборка
-git clone https://github.com/YslamTajibayew/labar4.git
+git clone https://github.com/orazmuhammedowr31-ux/lab4-.git
 
 cd tpmp -gr12-lab4-
 
